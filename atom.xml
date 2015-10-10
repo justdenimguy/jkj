@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>jkj</title>
+ <link href="jackknifejeans.com/atom.xml" rel="self"/>
+ <link href="jackknifejeans.com/"/>
+ <updated>2015-10-10T10:51:28-07:00</updated>
+ <id>jackknifejeans.com</id>
+ <author>
+   <name>j</name>
+   <email>justdenimguy@yahoo.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Color of Heaven</title>
+   <link href="jackknifejeans.com/indigo/color-of-heaven.html"/>
+   <updated>2015-10-01T00:00:00-07:00</updated>
+   <id>jackknifejeans.com/indigo/color-of-heaven</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-xs-10 col-xs-offset-1&quot;&gt;
+    &lt;video width=&quot;704&quot; height=&quot;480&quot; controls=&quot;controls&quot; class=&quot;img-responsive&quot;&gt;
+      &lt;source src=&quot;/assets/images/graffiti/heaven.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;object data=&quot;/assets/images/graffiti/heaven.mp4&quot; width=&quot;704&quot; height=&quot;480&quot;&gt;
+      &lt;embed src=&quot;/assets/images/graffiti/heaven.mp4&quot; width=&quot;704&quot; height=&quot;480&quot;&gt;
+      Your browser does not support video
+      &lt;/embed&gt;
+      &lt;/object&gt;
+    &lt;/video&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>City Camping Factory</title>
+   <link href="jackknifejeans.com/jekyll/poole/city-camping.html"/>
+   <updated>2014-03-02T00:00:00-08:00</updated>
+   <id>jackknifejeans.com/jekyll/poole/city-camping</id>
+   <content type="html">&lt;p&gt;We camp of new epidemic like &amp;ldquo;city, called.&amp;rdquo; We will be able to see the spot to pitch a tent!&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+ </entry>
+ 
+
+</feed>
