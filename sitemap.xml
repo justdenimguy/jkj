@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>jackknifejeans.com/</loc>
-    <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+    <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
     <url>
-      <loc>jackknifejeans.com/jeans/city-camping-continued.html</loc>
+      <loc>jackknifejeans.com/graffiti/scary-witch.html</loc>
       
         <lastmod>2015-10-03T00:00:00-07:00</lastmod>
       
@@ -21,7 +21,20 @@
     </url>
   
     <url>
-      <loc>jackknifejeans.com/jeans/jeans-tight.html</loc>
+      <loc>jackknifejeans.com/graffiti/city-camping-continued.html</loc>
+      
+        <lastmod>2015-10-03T00:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>jackknifejeans.com/graffiti/jeans-tight.html</loc>
       
         <lastmod>2015-10-02T00:00:00-07:00</lastmod>
       
@@ -34,20 +47,7 @@
     </url>
   
     <url>
-      <loc>jackknifejeans.com/indigo/color-of-heaven.html</loc>
-      
-        <lastmod>2015-10-01T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>jackknifejeans.com/jekyll/poole/city-camping.html</loc>
+      <loc>jackknifejeans.com/graffiti/city-camping.html</loc>
       
         <lastmod>2014-03-02T00:00:00-08:00</lastmod>
       
@@ -63,7 +63,7 @@
   <url>
     <loc>jackknifejeans.com/404.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -76,7 +76,7 @@
   <url>
     <loc>jackknifejeans.com/about.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +89,7 @@
   <url>
     <loc>jackknifejeans.com/atom.xml</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -102,7 +102,7 @@
   <url>
     <loc>jackknifejeans.com/graffiti.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -115,7 +115,7 @@
   <url>
     <loc>jackknifejeans.com/index.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -128,7 +128,7 @@
   <url>
     <loc>jackknifejeans.com/list.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -141,7 +141,7 @@
   <url>
     <loc>jackknifejeans.com/sitemap.xml</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -154,7 +154,7 @@
   <url>
     <loc>jackknifejeans.com/styles.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -167,7 +167,7 @@
   <url>
     <loc>jackknifejeans.com/thankyou.html</loc>
     
-      <lastmod>2015-10-30T17:59:05-07:00</lastmod>
+      <lastmod>2016-06-10T13:05:29-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

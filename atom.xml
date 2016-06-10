@@ -4,7 +4,7 @@
  <title>jkj</title>
  <link href="jackknifejeans.com/atom.xml" rel="self"/>
  <link href="jackknifejeans.com/"/>
- <updated>2015-10-30T17:59:05-07:00</updated>
+ <updated>2016-06-10T13:05:29-07:00</updated>
  <id>jackknifejeans.com</id>
  <author>
    <name>j</name>
@@ -13,10 +13,21 @@
 
  
  <entry>
-   <title>City Camping Continued</title>
-   <link href="jackknifejeans.com/jeans/city-camping-continued.html"/>
+   <title>Happy Halloween!</title>
+   <link href="jackknifejeans.com/graffiti/scary-witch.html"/>
    <updated>2015-10-03T00:00:00-07:00</updated>
-   <id>jackknifejeans.com/jeans/city-camping-continued</id>
+   <id>jackknifejeans.com/graffiti/scary-witch</id>
+   <content type="html">&lt;p&gt;Scarey Witch! (just kidding!  sorry our-boss!)&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>City Camping Continued</title>
+   <link href="jackknifejeans.com/graffiti/city-camping-continued.html"/>
+   <updated>2015-10-03T00:00:00-07:00</updated>
+   <id>jackknifejeans.com/graffiti/city-camping-continued</id>
    <content type="html">&lt;p&gt;We pitched our tent! Good job Guys! (please see how much we love indigo?!)&lt;/p&gt;
 
 &lt;hr&gt;
@@ -25,9 +36,9 @@
  
  <entry>
    <title>Does your jeans are too tight?</title>
-   <link href="jackknifejeans.com/jeans/jeans-tight.html"/>
+   <link href="jackknifejeans.com/graffiti/jeans-tight.html"/>
    <updated>2015-10-02T00:00:00-07:00</updated>
-   <id>jackknifejeans.com/jeans/jeans-tight</id>
+   <id>jackknifejeans.com/graffiti/jeans-tight</id>
    <content type="html">&lt;p&gt;We recently, it was noticed that it seems like wearing a jeans that too many people are tight too. Do we function how, &amp;ldquo;trickle down fashionomics&amp;rdquo; you know, and we there worth, &amp;ldquo;tight&amp;rdquo; is to pull it off, other people maybe we are doing it too, I agree that it was a cool kind of for some of those people who had been made to believe can kick. We, everyone, they are to inform that it does not pull it off, consider the time: You do not have pulled it off. Time to wear again loose jeans!&lt;/p&gt;
 
 &lt;hr&gt;
@@ -35,32 +46,10 @@
  </entry>
  
  <entry>
-   <title>The Color of Heaven</title>
-   <link href="jackknifejeans.com/indigo/color-of-heaven.html"/>
-   <updated>2015-10-01T00:00:00-07:00</updated>
-   <id>jackknifejeans.com/indigo/color-of-heaven</id>
-   <content type="html">&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-lg-8 col-lg-offset-2 col-xs-10 col-xs-offset-1&quot;&gt;
-    &lt;video width=&quot;704&quot; height=&quot;480&quot; controls=&quot;controls&quot; class=&quot;img-responsive&quot;&gt;
-      &lt;source src=&quot;/assets/images/graffiti/heaven.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-      &lt;object data=&quot;/assets/images/graffiti/heaven.mp4&quot; width=&quot;704&quot; height=&quot;480&quot;&gt;
-      &lt;embed src=&quot;/assets/images/graffiti/heaven.mp4&quot; width=&quot;704&quot; height=&quot;480&quot;&gt;
-      Your browser does not support video
-      &lt;/embed&gt;
-      &lt;/object&gt;
-    &lt;/video&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-</content>
- </entry>
- 
- <entry>
    <title>City Camping Factory</title>
-   <link href="jackknifejeans.com/jekyll/poole/city-camping.html"/>
+   <link href="jackknifejeans.com/graffiti/city-camping.html"/>
    <updated>2014-03-02T00:00:00-08:00</updated>
-   <id>jackknifejeans.com/jekyll/poole/city-camping</id>
+   <id>jackknifejeans.com/graffiti/city-camping</id>
    <content type="html">&lt;p&gt;We camp of new epidemic like &amp;ldquo;city, called.&amp;rdquo; We will be able to see the spot to pitch a tent!&lt;/p&gt;
 
 &lt;hr&gt;
